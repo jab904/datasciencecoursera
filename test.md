@@ -1,4 +1,4 @@
 ##TEST
 
-*TEST1
-*TEST2
+* TEST1
+* TEST2
